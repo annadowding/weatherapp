@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -35,7 +34,7 @@ function App() {
           <footer>
             <p>
               This project was coded by{" "}
-              <a href="https://github.com/annadowding" target="_blank">
+              <a href="https://github.com/annadowding">
                 Anna Dowding
               </a>
               and is
