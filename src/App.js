@@ -34,10 +34,15 @@ function App() {
 
           <footer>
             <p>
-              This project was coded by <a href="https://github.com/annadowding" target="_blank">Anna Dowding</a>and is<a href="https://github.com/annadowding/reactapp">open-sourced</a>.
-              
-            
-          
+              This project was coded by{" "}
+              <a href="https://github.com/annadowding" target="_blank">
+                Anna Dowding
+              </a>
+              and is
+              <a href="https://github.com/annadowding/weatherapp">
+                open-sourced
+              </a>
+              .
             </p>
           </footer>
         </div>
